@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hola  :smile: me llamo Alfonso Perez
 
-<!--
-**Gilmer89/Gilmer89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Soy un desarrollador apasionado por la tecnologia. Sigueme en [@_alfonsopc](https://wwww.instagram.com/_alfonsopc/)
 
-Here are some ideas to get you started:
+![LETRERO DE UNDER CONSTRUCTION](https://ps.w.org/easy-under-construction/assets/banner-772x250.png?rev=2417171)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------
+
+- :man_technologist: Give a look to the programing courses repository (Revisa el repositorio de los cursos de programacion)
+  -  Curso de programacion desde cero, en  español y gratis
+
+-----------------------
+  
+> "Toda tecnologia lo suficientemente avanzada es indistingible de la magia" - Athur C. Clark - Escritor de ciencia ficcion
+
+----------------------
+
+### Acerca de mi
+
+1. Actualmente estoy aprendiendo de Python , Inteligencia Artificial , Computer Vision
+
+```Python
+
+acerca_de_mi = {
+    gatos: True,
+    country: "Peru",
+    country: "Peruvian",
+    age: 33,
+    city: "Lima City",
+    main_languages : [
+        "Python"
+    ]
+}
+
+```
+
