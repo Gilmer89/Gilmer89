@@ -34,3 +34,22 @@ acerca_de_mi = {
 
 ```
 
+
+### Acerca de mi
+
+1. Actualmente estoy aprendiendo de Python , Inteligencia Artificial , Computer Vision
+
+```Python
+
+acerca_de_mi = {
+    gatos: True,
+    country: "Peru",
+    country: "Peruvian",
+    age: 33,
+    city: "Lima City",
+    main_languages : [
+        "Python"
+    ]
+}
+
+```
